@@ -9,7 +9,8 @@ import org.eclipse.paho.client.mqttv3.MqttException;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PracticalProjectProcessorApplication {
+
+public class DataStream{
 
     public static void main(String[] args) throws NotRegisteredException, InterruptedException, MqttException {
 
