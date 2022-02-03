@@ -1,4 +1,4 @@
-package com.mb.practicalprojectprocessor;
+package com.mb.practicalprojectdatastream;
 
 import org.eclipse.paho.client.mqttv3.MqttClient;
 import org.eclipse.paho.client.mqttv3.MqttConnectOptions;

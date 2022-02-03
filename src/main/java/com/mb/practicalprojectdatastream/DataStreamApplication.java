@@ -1,4 +1,4 @@
-package com.mb.practicalprojectprocessor;
+package com.mb.practicalprojectdatastream;
 
 import com.orbitz.consul.AgentClient;
 import com.orbitz.consul.Consul;
