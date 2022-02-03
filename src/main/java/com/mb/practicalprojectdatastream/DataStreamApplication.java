@@ -24,7 +24,7 @@ public class DataStreamApplication {
 
     static AgentClient agentClient = consulClient.agentClient();
 
-    static String serviceId = "dataprocessor-numbers";
+    static String serviceId = "datastream-numbers";
 
     public static void main(String[] args) throws NotRegisteredException, InterruptedException, MqttException {
 
